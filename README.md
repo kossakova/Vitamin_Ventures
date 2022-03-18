@@ -21,6 +21,8 @@ IT IS IMPORTANT TO NOTE THIS PROJECT IS GEARED TO MIMIC WHAT YOU MIGHT BE ASKED 
 
 ## Quick Overview
 
+![Dashboard_screen.png](https://github.com/kossakova/Vitamin_Ventures/blob/main/PNG/Dashboard_screen.png)
+
 We were given real company data from a new and relatively small staffed vitamin sales business that does not have any analysis projects done. In order to use this for our final project to explore and do a full data analysis on two years of sales data, we were in agreement that the company, data, and some sales info would be masked to conceal the identity of the company. 
 
 One of our team mates who got approval and provided the cleaning/masking of our data will be able to take our findings back to the company and deliver real results with the master list for 1:1 maskings done. 
